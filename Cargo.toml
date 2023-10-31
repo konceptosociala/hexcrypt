@@ -2,6 +2,12 @@
 name = "hexcrypt"
 version = "0.1.0"
 edition = "2021"
+categories = ["image", "encryption"]
+description = "Convert UTF-8 encoded text to RGB images and vice versa"
+keywords = ["image", "encryption"]
+license = "Unlicense"
+readme = "README.md"
+repository = "https://github.com/konceptosociala/hexcrypt"
 
 [dependencies]
 anyhow = "1.0.75"
